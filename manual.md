@@ -13,7 +13,7 @@ Commit and push it to the remote:
 git commit -m "Removed a modified file from pull request"
 git push origin pull-request-branch
 ```
-## Squash commits into first commit [Link](https://stackoverflow.com/questions/6934752/combining-multiple-commits-before-pushing-in-git)
+## Squash commits into first commit [Youtube](https://www.youtube.com/watch?v=gXCkYkLQ3To) | [Stack overflow](https://stackoverflow.com/questions/6934752/combining-multiple-commits-before-pushing-in-git)
 
 Rebase the working branch to the first commit
 ```
